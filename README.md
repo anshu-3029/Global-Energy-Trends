@@ -1,1 +1,1 @@
-# Global-Energy-Trends
+This project presents an interactive Power BI dashboard analyzing global energy generation and consumption across regions, countries and energy sources. Using multi year datasets in terawatt hours (TWh), the analysis highlights renewable vs non-renewable trends, source-wise growth, regional consumption patterns and top energy consuming countries. The dashboard enables data driven insights to support sustainability, policy planning and energy transition decisions.
